@@ -19,7 +19,11 @@ In this lab, we are going to walk through how to create an Active Directory home
 <h2>Program walk-through:</h2>
 
 <p align="center">
-CREATED USERS: <br/>
+Setup Active Directory: <br/>
+<img src="USERS AND GROUPS 2 - .png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ CREATE USERS: <br/>
 <img src="USERS AND GROUPS 2 - .png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
