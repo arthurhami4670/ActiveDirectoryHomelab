@@ -24,8 +24,9 @@ CREATED USERS: <br/>
 <br />
 <br />
 CREATED GROUPS: <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="USERS AND GROUPS 4 - Screen Shot 2026-03-14 at 4.00.19 PM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<img src="USERS AND GROUPS 5 - Screen Shot 2026-03-14 at 4.00.22 PM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Enter the number of passes: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
