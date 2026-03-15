@@ -14,6 +14,7 @@ In this lab, we are going to walk through how to create an Active Directory home
 
 <h2>Environments Used </h2>
 
+- <b>Azure VM</b>
 - <b>Windows Server 2025</b> 
 
 <h2>Lab Walk Through:</h2>
