@@ -3,7 +3,7 @@
  
 
 <h2>Description</h2>
-In this lab, we are going to walk through how to create an Active Directory home lab environment using an Azure VM and a Windows OS.  
+In this lab, we are going to walk through how to create an Active Directory home lab environment using an Azure VM and a Windows server.  
 <br />
 
 
