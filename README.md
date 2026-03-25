@@ -40,17 +40,6 @@ Password Reset: <br/>
 <br />
 <img src="Password Reset 2 - Screen Shot 2026-03-15 at 1.20.29 PM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Join PC to the Domain:  <br/>
-<img src="JOIN PC TO DOMAIN 1  Screen Shot 2026-03-14 at 4.37.48 PM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<img src="JOIN PC TO DOMAIN 2 Screen Shot 2026-03-14 at 4.38.18 PM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<img src="JOIN PC TO DOMAIN 3 Screen Shot 2026-03-14 at 4.38.52 PM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-Ping the domain to verify:  <br/>
-<img src="JOIN PC TO DOMAIN 4 Screen Shot 2026-03-14 at 4.48.37 PM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
 Group Policy:  <br/>
 <img src="GROUP POLICY 1 Screen Shot 2025-12-30 at 3.07.50 PM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
